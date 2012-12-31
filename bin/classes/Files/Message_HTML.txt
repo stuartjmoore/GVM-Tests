@@ -1,0 +1,10 @@
+<div class="gc-message-sms-row">
+  <span class="gc-message-sms-from">
+    Me:
+  </span>
+  <span class="gc-message-sms-text">My coworker gave me a card to try in your PC</span>
+  <span class="gc-message-sms-time">
+    8:51 AM 
+  </span>
+  
+</div>

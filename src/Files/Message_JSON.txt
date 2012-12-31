@@ -1,0 +1,20 @@
+{
+			"id": "29270b5450f1594c15d932a7ab75deec8318f6e8",
+			"phoneNumber": "+17202731812",
+			"displayNumber": "(720) 273-1812",
+			"startTime": "1355328929577",
+			"displayStartDateTime": "12/12/12 9:15 AM",
+			"displayStartTime": "9:15 AM",
+			"relativeStartTime": "5 minutes ago",
+			"note": "",
+			"isRead": true,
+			"isSpam": false,
+			"isTrash": false,
+			"star": false,
+			"messageText": "My coworker gave me a card to try in your PC",
+			"labels": ["inbox",
+			"sms",
+			"all"],
+			"type": 11,
+			"children": ""
+		}
